@@ -1,0 +1,6 @@
+{
+  "name": "Iris Classifier - ML Dashboard",
+  "description": "Responsive Iris Flower Species Classification dashboard with scikit-learn models comparison, interactive predictions, and Chart.js data visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
